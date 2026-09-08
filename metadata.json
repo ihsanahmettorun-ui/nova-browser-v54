@@ -1,0 +1,6 @@
+{
+  "name": "Nova Browser V54",
+  "description": "Chrome tarzı gelişmiş web tarayıcısı, dahili apisiz NovaSearch arama motoru, güvenli web proxy, hesap senkronizasyonu ve tarihsel geçmiş yöneticisi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
